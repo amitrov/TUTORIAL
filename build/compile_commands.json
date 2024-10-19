@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/c/Users/angel/Desktop/TUTORIAL/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/fathm_ft.dir/fathm_ft.c.o -c /mnt/c/Users/angel/Desktop/TUTORIAL/fathm_ft.c",
+  "file": "/mnt/c/Users/angel/Desktop/TUTORIAL/fathm_ft.c",
+  "output": "CMakeFiles/fathm_ft.dir/fathm_ft.c.o"
+}
+]
